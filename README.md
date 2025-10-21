@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thanh Đạt
 
-🎓 Student | 💻 Developer | 🌱 Learning AI & Web
+🎓 Student@Fit@HCMUS | 💻 Developer | 🌱 Learning AI, DS, Web
 
 ### 🧠 Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
